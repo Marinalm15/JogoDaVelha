@@ -2,6 +2,8 @@
 
 Este é um simples jogo da velha implementado usando HTML, CSS e JavaScript. É um projeto divertido e educativo para aprender mais sobre desenvolvimento web.
 
+![Screenshot do Jogo da Velha](jogoDaVelha.png)
+
 ## Como Jogar
 
 1. Clone ou baixe este repositório.
